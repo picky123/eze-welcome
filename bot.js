@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 const client = new Discord.Client();
 
-const token = 'NDM3NjUwNTA4NTk3OTUyNTEy.Db-_Xg.8RgC8BYxoW-VghxGoqkloSvmcNI';
+const token = 'NDM5NDE1NDcyMTgyNTI1OTUz.DcS1JQ.PJX10IzpUJAyQ2tjW5jY7B9kcfg';
 
 client.on("ready", () => {
   console.log(`Bot has started, with ${client.users.size} users, in ${client.channels.size} channels of ${client.guilds.size} guilds.`); 
@@ -19,4 +19,4 @@ Ne para rau ca nu avem cel mai bun bot sau cel mai bun staff dar o sa ne dezvolt
 Te rog uita-te pe **index** o sa te ajute destul de mult`);
 });
 
-client.login('NDM3NjUwNTA4NTk3OTUyNTEy.Db-_Xg.8RgC8BYxoW-VghxGoqkloSvmcNI';
+client.login('NDM5NDE1NDcyMTgyNTI1OTUz.DcS1JQ.PJX10IzpUJAyQ2tjW5jY7B9kcfg';
